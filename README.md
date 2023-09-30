@@ -1,3 +1,4 @@
+![logo](https://github.com/Thusaarul5/Thusaarul5/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
