@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt = "coding" src = "">
+<img align="right" src = "">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thusaarul5&label=Profile%20views&color=0e75b6&style=flat" alt="thusaarul5" /> </p>
 
