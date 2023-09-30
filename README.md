@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt = "coding" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Flhongtortai.com%2Fcollection%2Fanimated-typing-gif&psig=AOvVaw2V1ADFcnIpk2fCrf5M0q9w&ust=1696150823976000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiFv6z80YEDFQAAAAAdAAAAABAJ">
+<img align="right" alt = "coding" src = "">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thusaarul5&label=Profile%20views&color=0e75b6&style=flat" alt="thusaarul5" /> </p>
 
